@@ -1,0 +1,28 @@
+-- Day 1: SQL Basics
+
+-- 1. SELECT all columns
+SELECT * FROM students;
+
+-- 2. SELECT specific columns
+SELECT name, marks FROM students;
+
+-- 3. WHERE - filter rows
+SELECT name FROM students WHERE age=20;
+
+-- 4. ORDER BY - sorting
+SELECT marks FROM students ORDER BY marks DESC;
+
+-- 5. DISTINCT - remove duplicates
+SELECT DISTINCT course FROM students;
+
+-- 6. LIMIT - restrict number of rows
+SELECT name FROM students LIMIT 3;
+
+-- 7. AND, OR, NOT - combining conditions
+SELECT name FROM students WHERE age=20 AND course='AI';
+SELECT name FROM students WHERE course='AI' OR course='CSE';
+SELECT name FROM students WHERE NOT course='AI';
+
+-- 8. NULL handling - IS NULL, IS NOT NULL
+SELECT name FROM students WHERE marks IS NULL;
+SELECT name FROM students WHERE marks IS NOT NULL;
