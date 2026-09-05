@@ -4,7 +4,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 
 ## This Week — Basics Wrap-up (Days 1-3)
 - [x] Day 1: SELECT, WHERE, ORDER BY, DISTINCT, LIMIT, AND/OR/NOT, NULL handling
-- [ ] Day 2: Harder basics (LIKE, BETWEEN, IN) + revision
+- [x] Day 2: Harder basics (LIKE, BETWEEN, IN) + revision
 - [ ] Day 3: Mixed basics practice problems
 
 ## Coming up
