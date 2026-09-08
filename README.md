@@ -9,7 +9,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 
 ## Coming up
 - [x] Day 4: COUNT, SUM, AVG, MIN, MAX
-- [ ] Day 5: Aggregation Practice
+- [x] Day 5: Aggregation Practice
 - [ ] Day 6: GROUP BY
 - [ ] Day 7: HAVING
 - [ ] Day 8: Aggregation revision 
