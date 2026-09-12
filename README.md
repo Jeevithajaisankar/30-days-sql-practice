@@ -12,7 +12,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 - [x] Day 5: Aggregation Practice
 - [x] Day 6: GROUP BY
 - [x] Day 7: HAVING
-- [ ] Day 8: Aggregation revision 
+- [x] Day 8: Aggregation revision 
 - [ ] Day 9-14: Joins
 - Days 15-19: Subqueries & CTEs
 - Days 20-24: Window Functions
