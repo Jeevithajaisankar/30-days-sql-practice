@@ -14,7 +14,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 - [x] Day 7: HAVING
 - [x] Day 8: Aggregation revision 
 - [x] Day 9: INNER JOIN
-- [ ] Day 10: LEFT JOIN / RIGHT JOIN
+- [x] Day 10: LEFT JOIN / RIGHT JOIN
 - [ ] Day 11: FULL OUTER JOIN
 - [ ] Day 12: Self joins
 - [ ] Day 13: Multiple table joins (3+ tables)
