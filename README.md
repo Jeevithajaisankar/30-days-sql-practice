@@ -16,7 +16,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 - [x] Day 9: INNER JOIN
 - [x] Day 10: LEFT JOIN / RIGHT JOIN
 - [x] Day 11: FULL OUTER JOIN
-- [ ] Day 12: Self joins
+- [x] Day 12: Self joins
 - [ ] Day 13: Multiple table joins (3+ tables)
 - [ ] Day 14: Joins practice/revision
 - Days 15-19: Subqueries & CTEs
