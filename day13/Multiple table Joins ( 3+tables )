@@ -1,0 +1,18 @@
+-- Day 13: Multiple Table Joins (3+ tables)
+
+-- 1. Join 3 tables together
+SELECT students.students_name, courses.course_name
+FROM students
+JOIN Enrollments
+ON students.students_id = Enrollments.student_id
+JOIN courses
+ON Enrollments.course_id = courses.course_id;
+
+-- 2. Multiple joins + WHERE
+SELECT students.student_name, courses.course_name
+FROM students 
+JOIN Enrollments
+ON students.students_id = Enrollments.students_id
+JOIN courses
+ON Enrollments.course = courses.course_id
+WHERE courses.course_name = 'python';
