@@ -21,7 +21,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 - [x] Day 14: Joins practice/revision
 - [x] Day 15: Subqueries in WHERE
 - [x] Day 16: Subqueries in SELECT/FROM
-- [ ] Day 17: Correlated subqueries
+- [x] Day 17: Correlated subqueries
 - [ ] Day 18: CTEs (WITH clause)
 - [ ] Day 19: Subqueries/CTEs practice-revision
 - Days 20-24: Window Functions
