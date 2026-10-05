@@ -25,7 +25,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 - [x] Day 18: CTEs (WITH clause)
 - [x] Day 19: Subqueries/CTEs practice-revision
 - [x] Day 20: ROW_NUMBER, RANK, DENSE_RANK
-- [ ] Day 21: LAG, LEAD
+- [x] Day 21: LAG, LEAD
 - [ ] Day 22: PARTITION BY with aggregates
 - [ ] Day 23: Window functions practice (top-N per group)
 - [ ] Day 24: Window functions revision
