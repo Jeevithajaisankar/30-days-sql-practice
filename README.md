@@ -29,7 +29,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 - [x] Day 22: PARTITION BY with aggregates
 - [x] Day 23: Window functions practice (top-N per group)
 - [x] Day 24: Window functions revision
-- [ ] Day 25: String functions (CONCAT, SUBSTRING, LIKE)
+- [x] Day 25: String functions (CONCAT, SUBSTRING, LIKE)
 - [ ] Day 26: Date functions, CASE statements
 - [ ] Day 27: Interview questions practice (easy-medium)
 - [ ] Day 28: Interview questions practice (easy-medium)
