@@ -31,7 +31,7 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 - [x] Day 24: Window functions revision
 - [x] Day 25: String functions (CONCAT, SUBSTRING, LIKE)
 - [x] Day 26: Date functions, CASE statements
-- [ ] Day 27: Interview questions practice (easy-medium)
+- [x] Day 27: Interview questions practice (easy-medium)
 - [ ] Day 28: Interview questions practice (easy-medium)
 - [ ] Day 29: Revision, redo weakest queries from memory
 - [ ] Day 30: Timed mock, 3-5 random problems in 45 minutes
