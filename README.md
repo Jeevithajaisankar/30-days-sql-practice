@@ -34,4 +34,4 @@ Practicing SQL daily to build interview-ready skills for a Data Analyst role.
 - [x] Day 27: Interview questions practice (easy-medium)
 - [x] Day 28: Interview questions practice (easy-medium)
 - [x] Day 29: Revision, redo weakest queries from memory
-- [ ] Day 30: Timed mock, 3-5 random problems in 45 minutes
+- [x] Day 30: Timed mock, 3-5 random problems in 45 minutes
